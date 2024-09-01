@@ -20,7 +20,7 @@ In addition to my technical pursuits, I'm a driven innovator—explore the start
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://www.linkedin.com/in/samuel-reyes-2oo3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-reyes-2oo3/)
 
 # 💻 Tech Stack:
 Languages: 
