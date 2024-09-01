@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Samuel Reyes</h1>
 
-# 💫 About Me:
+# 🏄‍♂️ About Me:
 I am a fourth-year computer science student at the University of California, Berkeley, with a deep passion for coding, machine learning, and developing robust, scalable applications. I thrive on solving complex problems and am eager to apply my skills to real-world challenges.
 
 ## 🚀 What I'm Up To
