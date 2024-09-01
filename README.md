@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋 I'm Erik Cupsa</h1>
+<h1 align="center">Hi 👋 I'm Samuel Reyes</h1>
 
 # 💫 About Me:
-I am a third-year computer engineering student at McGill University, passionate about exploring the realms of coding, machine learning, and building robust applications.
+I am a fourth-year computer science student at the University of California, Berkeley, with a deep passion for coding, machine learning, and developing robust, scalable applications. I thrive on solving complex problems and am eager to apply my skills to real-world challenges.
 
 ## 🚀 What I'm Up To
 
