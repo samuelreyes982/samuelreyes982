@@ -14,9 +14,6 @@ I am a fourth-year computer science student at the University of California, Ber
 In addition to my technical pursuits, I'm a driven innovator—explore the startups and side projects I've been passionately developing:
 
 - [Growmydealer](https://growmydealer.com)
-- [Instagram](https://www.instagram.com/swerikcodes/)
-- [TikTok](https://www.tiktok.com/@swerikcodes)
-- [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
 
 
 ## 🌐 Connect with me:
