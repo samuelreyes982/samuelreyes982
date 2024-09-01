@@ -8,19 +8,19 @@ I am a fourth-year computer science student at the University of California, Ber
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - 💻 Building Spring Boot applications with PostgreSQL
 
-Check out my [coding portfolio!](https://erikc-portfolio.netlify.app/)
+
 
 ## 🎓 About Me
+In addition to my technical pursuits, I'm a driven innovator—explore the startups and side projects I've been passionately developing:
 
-I'm also an educational coding content creator, sharing my coding passion, and any advice on:
-
+- [Growmydealer](https://growmydealer.com)
 - [Instagram](https://www.instagram.com/swerikcodes/)
 - [TikTok](https://www.tiktok.com/@swerikcodes)
 - [YouTube](https://www.youtube.com/channel/UCgKFOz_KrMbmypWrawtzDQg)
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erik-cupsa/)
+[![LinkedIn](https://www.linkedin.com/in/samuel-reyes-2oo3/)
 
 # 💻 Tech Stack:
 Languages: 
