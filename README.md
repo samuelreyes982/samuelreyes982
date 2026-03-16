@@ -10,10 +10,7 @@ I am a fourth-year computer science student at the University of California, Ber
 
 
 
-## 🎓 About Me
-In addition to my technical pursuits, I'm a driven innovator—explore the startups and side projects I've been passionately developing:
 
-(https://web-zeta-olive-51.vercel.app/)
 
 
 ## 🌐 Connect with me:
